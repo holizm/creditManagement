@@ -1,0 +1,41 @@
+creditTransactionType options
+    charge
+    payment
+    refund
+    adjustment
+    writeOff
+creditTerm
+    title
+    code
+    paymentDueDays integer
+    gracePeriodDays integer optional
+    interestRate realNumber optional
+    description optional
+    unique code
+creditAccount
+    customer
+    creditTerm optional
+    creditLimit realNumber
+    balance realNumber
+    availableCredit realNumber
+    currency
+    openedDate
+    expiryDate optional
+    state
+    unique customer currency
+creditTransaction
+    creditAccount
+    creditTransactionType
+    transactionDate
+    amount realNumber
+    balance realNumber
+    order optional
+    payment optional
+    description optional
+creditLimitChange
+    creditAccount
+    previousLimit realNumber
+    newLimit realNumber
+    effectiveDate
+    changedBy
+    reason
