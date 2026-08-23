@@ -1,5 +1,5 @@
-export default ({ creditAccount }) => <dl class='creditSummary'>
+export default ({ creditAccount }) => <dl class='summary'>
     <dt class='balance'>{creditAccount.balance}</dt>
-    <dd class='creditLimit'>{creditAccount.creditLimit}</dd>
+    <dd class='limit'>{creditAccount.creditLimit}</dd>
     <dd class='availableCredit'>{creditAccount.availableCredit}</dd>
 </dl>
