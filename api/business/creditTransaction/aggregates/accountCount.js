@@ -1,0 +1,4 @@
+[
+    { $match: { creditAccount } },
+    { $count: 'count' },
+]
