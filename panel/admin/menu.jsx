@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'creditScore',
+        path: '/creditManagement',
         title: 'creditManagementCreditManagement',
     },
 ]
