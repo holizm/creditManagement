@@ -1,0 +1,26 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "amount": "Amount",
+        "availableCredit": "Available credit",
+        "balance": "Balance",
+        "creditAccount": "Credit account",
+        "creditAccounts": "Credit accounts",
+        "creditLimit": "Credit limit",
+        "creditManagement": "Credit management",
+        "creditTerm": "Credit term",
+        "currency": "Currency",
+        "customer": "Customer",
+        "description": "Description",
+        "openedDate": "Opened date",
+        "state": "State",
+        "transactionDate": "Transaction date",
+        "transactionType": "Transaction type",
+        "transactions": "Transactions"
+    },
+    "site": {
+        "availableCredit": "Available credit",
+        "balance": "Credit balance"
+    }
+}

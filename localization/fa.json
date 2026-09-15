@@ -1,0 +1,26 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "amount": "مبلغ",
+        "availableCredit": "اعتبار در دسترس",
+        "balance": "مانده",
+        "creditAccount": "حساب اعتباری",
+        "creditAccounts": "حساب‌های اعتباری",
+        "creditLimit": "سقف اعتبار",
+        "creditManagement": "مدیریت اعتبار",
+        "creditTerm": "شرایط اعتباری",
+        "currency": "ارز",
+        "customer": "مشتری",
+        "description": "توضیحات",
+        "openedDate": "تاریخ افتتاح",
+        "state": "مرحله",
+        "transactionDate": "تاریخ تراکنش",
+        "transactionType": "نوع تراکنش",
+        "transactions": "تراکنش‌ها"
+    },
+    "site": {
+        "availableCredit": "اعتبار در دسترس",
+        "balance": "مانده اعتبار"
+    }
+}
