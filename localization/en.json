@@ -1,20 +1,15 @@
 {
     "common": {
         "availableCredit": "Available credit",
-        "amount": "Amount",
         "balance": "Credit balance",
         "creditAccount": "Credit account",
         "creditAccounts": "Credit accounts",
         "creditLimit": "Credit limit",
         "creditManagement": "Credit management",
         "creditTerm": "Credit term",
-        "currency": "Currency",
         "customer": "Customer",
-        "description": "Description",
         "openedDate": "Opened date",
-        "state": "State",
         "transactionDate": "Transaction date",
-        "transactionType": "Transaction type",
-        "transactions": "Transactions"
+        "transactionType": "Transaction type"
     }
 }
