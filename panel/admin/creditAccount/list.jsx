@@ -6,7 +6,7 @@ const headers = <>
     <th>creditManagementCreditLimit</th>
     <th>creditManagementBalance</th>
     <th>creditManagementAvailableCredit</th>
-    <th>creditManagementState</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
