@@ -1,10 +1,8 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
-        "amount": "Amount",
+    "common": {
         "availableCredit": "Available credit",
-        "balance": "Balance",
+        "amount": "Amount",
+        "balance": "Credit balance",
         "creditAccount": "Credit account",
         "creditAccounts": "Credit accounts",
         "creditLimit": "Credit limit",
@@ -18,9 +16,5 @@
         "transactionDate": "Transaction date",
         "transactionType": "Transaction type",
         "transactions": "Transactions"
-    },
-    "site": {
-        "availableCredit": "Available credit",
-        "balance": "Credit balance"
     }
 }

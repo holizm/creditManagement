@@ -1,10 +1,8 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
-        "amount": "مبلغ",
+    "common": {
         "availableCredit": "اعتبار در دسترس",
-        "balance": "مانده",
+        "amount": "مبلغ",
+        "balance": "مانده اعتبار",
         "creditAccount": "حساب اعتباری",
         "creditAccounts": "حساب‌های اعتباری",
         "creditLimit": "سقف اعتبار",
@@ -18,9 +16,5 @@
         "transactionDate": "تاریخ تراکنش",
         "transactionType": "نوع تراکنش",
         "transactions": "تراکنش‌ها"
-    },
-    "site": {
-        "availableCredit": "اعتبار در دسترس",
-        "balance": "مانده اعتبار"
     }
 }
