@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "అందుబాటులో ఉన్న రుణం",
+        "balance": "రుణ నిల్వ",
+        "creditAccount": "రుణ ఖాతా",
+        "creditAccounts": "రుణ ఖాతాలు",
+        "creditLimit": "రుణ పరిమితి",
+        "creditManagement": "రుణ నిర్వహణ",
+        "creditTerm": "రుణ వ్యవధి",
+        "customer": "వినియోగదారు",
+        "openedDate": "తెరిచిన తేదీ",
+        "transactionDate": "లావాదేవీ తేదీ",
+        "transactionType": "లావాదేవీ రకం"
+    }
+}

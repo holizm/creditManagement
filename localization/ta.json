@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "கிடைக்கக்கூடிய கடன்",
+        "balance": "கடன் இருப்பு",
+        "creditAccount": "கடன் கணக்கு",
+        "creditAccounts": "கடன் கணக்குகள்",
+        "creditLimit": "கடன் வரம்பு",
+        "creditManagement": "கடன் மேலாண்மை",
+        "creditTerm": "கடன் காலம்",
+        "customer": "வாடிக்கையாளர்",
+        "openedDate": "திறந்த தேதி",
+        "transactionDate": "பரிவர்த்தனை தேதி",
+        "transactionType": "பரிவர்த்தனை வகை"
+    }
+}

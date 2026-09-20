@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "उपलब्ध ऋण",
+        "balance": "ऋण शेष",
+        "creditAccount": "ऋण खाता",
+        "creditAccounts": "ऋण खाते",
+        "creditLimit": "ऋण सीमा",
+        "creditManagement": "ऋण प्रबंधन",
+        "creditTerm": "ऋण अवधि",
+        "customer": "ग्राहक",
+        "openedDate": "खोलने की तिथि",
+        "transactionDate": "लेनदेन की तिथि",
+        "transactionType": "लेनदेन का प्रकार"
+    }
+}

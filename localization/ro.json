@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "Credit disponibil",
+        "balance": "Sold creditor",
+        "creditAccount": "Cont de credit",
+        "creditAccounts": "Conturi de credit",
+        "creditLimit": "Limită de credit",
+        "creditManagement": "Gestionarea creditului",
+        "creditTerm": "Termen de creditare",
+        "customer": "Client",
+        "openedDate": "Data deschiderii",
+        "transactionDate": "Data tranzacției",
+        "transactionType": "Tipul tranzacției"
+    }
+}

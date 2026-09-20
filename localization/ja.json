@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "利用可能与信額",
+        "balance": "与信残高",
+        "creditAccount": "与信口座",
+        "creditAccounts": "与信口座",
+        "creditLimit": "与信限度額",
+        "creditManagement": "与信管理",
+        "creditTerm": "与信期間",
+        "customer": "顧客",
+        "openedDate": "開設日",
+        "transactionDate": "取引日",
+        "transactionType": "取引種別"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "Verfügbarer Kredit",
+        "balance": "Kreditsaldo",
+        "creditAccount": "Kreditkonto",
+        "creditAccounts": "Kreditkonten",
+        "creditLimit": "Kreditlimit",
+        "creditManagement": "Kreditmanagement",
+        "creditTerm": "Kreditlaufzeit",
+        "customer": "Kunde",
+        "openedDate": "Eröffnungsdatum",
+        "transactionDate": "Transaktionsdatum",
+        "transactionType": "Transaktionstyp"
+    }
+}

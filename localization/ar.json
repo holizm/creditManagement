@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "الرصيد الائتماني المتاح",
+        "balance": "رصيد الائتمان",
+        "creditAccount": "حساب ائتماني",
+        "creditAccounts": "الحسابات الائتمانية",
+        "creditLimit": "الحد الائتماني",
+        "creditManagement": "إدارة الائتمان",
+        "creditTerm": "مدة الائتمان",
+        "customer": "العميل",
+        "openedDate": "تاريخ فتح الحساب",
+        "transactionDate": "تاريخ المعاملة",
+        "transactionType": "نوع المعاملة"
+    }
+}

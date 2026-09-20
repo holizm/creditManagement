@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "Magagamit na kredito",
+        "balance": "Balanse ng kredito",
+        "creditAccount": "Account ng kredito",
+        "creditAccounts": "Mga account ng kredito",
+        "creditLimit": "Limitasyon ng kredito",
+        "creditManagement": "Pamamahala ng kredito",
+        "creditTerm": "Takdang panahon ng kredito",
+        "customer": "Customer",
+        "openedDate": "Petsa ng pagbubukas",
+        "transactionDate": "Petsa ng transaksyon",
+        "transactionType": "Uri ng transaksyon"
+    }
+}

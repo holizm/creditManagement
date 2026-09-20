@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "ಲಭ್ಯವಿರುವ ಸಾಲ",
+        "balance": "ಸಾಲದ ಬಾಕಿ",
+        "creditAccount": "ಸಾಲದ ಖಾತೆ",
+        "creditAccounts": "ಸಾಲದ ಖಾತೆಗಳು",
+        "creditLimit": "ಸಾಲದ ಮಿತಿ",
+        "creditManagement": "ಸಾಲ ನಿರ್ವಹಣೆ",
+        "creditTerm": "ಸಾಲದ ಅವಧಿ",
+        "customer": "ಗ್ರಾಹಕ",
+        "openedDate": "ತೆರೆದ ದಿನಾಂಕ",
+        "transactionDate": "ವಹಿವಾಟಿನ ದಿನಾಂಕ",
+        "transactionType": "ವಹಿವಾಟಿನ ಪ್ರಕಾರ"
+    }
+}

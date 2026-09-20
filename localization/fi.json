@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "Käytettävissä oleva luotto",
+        "balance": "Luottosaldo",
+        "creditAccount": "Luottotili",
+        "creditAccounts": "Luottotilit",
+        "creditLimit": "Luottoraja",
+        "creditManagement": "Luotonhallinta",
+        "creditTerm": "Luottoaika",
+        "customer": "Asiakas",
+        "openedDate": "Avaamispäivä",
+        "transactionDate": "Tapahtumapäivä",
+        "transactionType": "Tapahtumatyyppi"
+    }
+}

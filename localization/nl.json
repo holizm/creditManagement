@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "Beschikbaar krediet",
+        "balance": "Kredietsaldo",
+        "creditAccount": "Kredietrekening",
+        "creditAccounts": "Kredietrekeningen",
+        "creditLimit": "Kredietlimiet",
+        "creditManagement": "Kredietbeheer",
+        "creditTerm": "Krediettermijn",
+        "customer": "Klant",
+        "openedDate": "Openingsdatum",
+        "transactionDate": "Transactiedatum",
+        "transactionType": "Transactietype"
+    }
+}

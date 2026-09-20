@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "Kredit tersedia",
+        "balance": "Baki kredit",
+        "creditAccount": "Akaun kredit",
+        "creditAccounts": "Akaun kredit",
+        "creditLimit": "Had kredit",
+        "creditManagement": "Pengurusan kredit",
+        "creditTerm": "Tempoh kredit",
+        "customer": "Pelanggan",
+        "openedDate": "Tarikh dibuka",
+        "transactionDate": "Tarikh transaksi",
+        "transactionType": "Jenis transaksi"
+    }
+}

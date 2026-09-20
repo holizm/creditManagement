@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "Kullanılabilir kredi",
+        "balance": "Kredi bakiyesi",
+        "creditAccount": "Kredi hesabı",
+        "creditAccounts": "Kredi hesapları",
+        "creditLimit": "Kredi limiti",
+        "creditManagement": "Kredi yönetimi",
+        "creditTerm": "Kredi vadesi",
+        "customer": "Müşteri",
+        "openedDate": "Açılış tarihi",
+        "transactionDate": "İşlem tarihi",
+        "transactionType": "İşlem türü"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "Dostupný úvěr",
+        "balance": "Úvěrový zůstatek",
+        "creditAccount": "Úvěrový účet",
+        "creditAccounts": "Úvěrové účty",
+        "creditLimit": "Úvěrový limit",
+        "creditManagement": "Správa úvěrů",
+        "creditTerm": "Doba splatnosti úvěru",
+        "customer": "Zákazník",
+        "openedDate": "Datum otevření",
+        "transactionDate": "Datum transakce",
+        "transactionType": "Typ transakce"
+    }
+}

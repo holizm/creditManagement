@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "Доступный кредит",
+        "balance": "Кредитный баланс",
+        "creditAccount": "Кредитный счёт",
+        "creditAccounts": "Кредитные счета",
+        "creditLimit": "Кредитный лимит",
+        "creditManagement": "Управление кредитами",
+        "creditTerm": "Срок кредита",
+        "customer": "Клиент",
+        "openedDate": "Дата открытия",
+        "transactionDate": "Дата транзакции",
+        "transactionType": "Тип транзакции"
+    }
+}

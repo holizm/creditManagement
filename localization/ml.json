@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "ലഭ്യമായ വായ്പ",
+        "balance": "വായ്പാ ബാക്കി",
+        "creditAccount": "വായ്പാ അക്കൗണ്ട്",
+        "creditAccounts": "വായ്പാ അക്കൗണ്ടുകൾ",
+        "creditLimit": "വായ്പാ പരിധി",
+        "creditManagement": "വായ്പാ പരിപാലനം",
+        "creditTerm": "വായ്പാ കാലാവധി",
+        "customer": "ഉപഭോക്താവ്",
+        "openedDate": "തുറന്ന തീയതി",
+        "transactionDate": "ഇടപാട് തീയതി",
+        "transactionType": "ഇടപാട് തരം"
+    }
+}

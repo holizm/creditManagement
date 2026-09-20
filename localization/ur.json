@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "دستیاب قرض",
+        "balance": "قرض کا بقایا",
+        "creditAccount": "قرض اکاؤنٹ",
+        "creditAccounts": "قرض اکاؤنٹس",
+        "creditLimit": "قرض کی حد",
+        "creditManagement": "قرض کا انتظام",
+        "creditTerm": "قرض کی مدت",
+        "customer": "گاہک",
+        "openedDate": "کھولنے کی تاریخ",
+        "transactionDate": "لین دین کی تاریخ",
+        "transactionType": "لین دین کی قسم"
+    }
+}

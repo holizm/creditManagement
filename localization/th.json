@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "วงเงินที่ใช้ได้",
+        "balance": "ยอดคงเหลือเครดิต",
+        "creditAccount": "บัญชีเครดิต",
+        "creditAccounts": "บัญชีเครดิต",
+        "creditLimit": "วงเงินเครดิต",
+        "creditManagement": "การจัดการเครดิต",
+        "creditTerm": "ระยะเวลาเครดิต",
+        "customer": "ลูกค้า",
+        "openedDate": "วันที่เปิดบัญชี",
+        "transactionDate": "วันที่ทำรายการ",
+        "transactionType": "ประเภทรายการ"
+    }
+}

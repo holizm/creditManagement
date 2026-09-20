@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "Наличен кредит",
+        "balance": "Кредитно салдо",
+        "creditAccount": "Кредитна сметка",
+        "creditAccounts": "Кредитни сметки",
+        "creditLimit": "Кредитен лимит",
+        "creditManagement": "Управление на кредити",
+        "creditTerm": "Срок на кредита",
+        "customer": "Клиент",
+        "openedDate": "Дата на откриване",
+        "transactionDate": "Дата на транзакцията",
+        "transactionType": "Тип транзакция"
+    }
+}

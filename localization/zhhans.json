@@ -1,0 +1,15 @@
+{
+    "common": {
+        "availableCredit": "可用信用额度",
+        "balance": "信用余额",
+        "creditAccount": "信用账户",
+        "creditAccounts": "信用账户",
+        "creditLimit": "信用额度",
+        "creditManagement": "信用管理",
+        "creditTerm": "信用期限",
+        "customer": "客户",
+        "openedDate": "开户日期",
+        "transactionDate": "交易日期",
+        "transactionType": "交易类型"
+    }
+}
