@@ -2,7 +2,7 @@ import { List } from 'list'
 import Form from './form'
 
 const headers = <>
-    <th start>creditManagementCustomer</th>
+    <th start>coreCustomer</th>
     <th>creditManagementCreditLimit</th>
     <th>creditManagementBalance</th>
     <th>creditManagementAvailableCredit</th>

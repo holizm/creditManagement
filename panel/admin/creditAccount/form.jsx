@@ -7,7 +7,7 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='creditManagementCustomer'
+        placeholder='coreCustomer'
         property='customer'
         required
     />

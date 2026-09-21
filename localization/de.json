@@ -7,7 +7,6 @@
         "creditLimit": "Kreditlimit",
         "creditManagement": "Kreditmanagement",
         "creditTerm": "Kreditlaufzeit",
-        "customer": "Kunde",
         "openedDate": "Eröffnungsdatum",
         "transactionDate": "Transaktionsdatum",
         "transactionType": "Transaktionstyp"

@@ -7,7 +7,6 @@
         "creditLimit": "วงเงินเครดิต",
         "creditManagement": "การจัดการเครดิต",
         "creditTerm": "ระยะเวลาเครดิต",
-        "customer": "ลูกค้า",
         "openedDate": "วันที่เปิดบัญชี",
         "transactionDate": "วันที่ทำรายการ",
         "transactionType": "ประเภทรายการ"

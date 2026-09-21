@@ -7,7 +7,6 @@
         "creditLimit": "Luottoraja",
         "creditManagement": "Luotonhallinta",
         "creditTerm": "Luottoaika",
-        "customer": "Asiakas",
         "openedDate": "Avaamispäivä",
         "transactionDate": "Tapahtumapäivä",
         "transactionType": "Tapahtumatyyppi"

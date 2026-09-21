@@ -7,7 +7,6 @@
         "creditLimit": "Limite de crédit",
         "creditManagement": "Gestion du crédit",
         "creditTerm": "Durée du crédit",
-        "customer": "Client",
         "openedDate": "Date d’ouverture",
         "transactionDate": "Date de transaction",
         "transactionType": "Type de transaction"
