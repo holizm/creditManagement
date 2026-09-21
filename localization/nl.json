@@ -6,9 +6,6 @@
         "creditAccounts": "Kredietrekeningen",
         "creditLimit": "Kredietlimiet",
         "creditManagement": "Kredietbeheer",
-        "creditTerm": "Krediettermijn",
-        "openedDate": "Openingsdatum",
-        "transactionDate": "Transactiedatum",
-        "transactionType": "Transactietype"
+        "creditTerm": "Krediettermijn"
     }
 }

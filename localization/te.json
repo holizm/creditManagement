@@ -6,9 +6,6 @@
         "creditAccounts": "రుణ ఖాతాలు",
         "creditLimit": "రుణ పరిమితి",
         "creditManagement": "రుణ నిర్వహణ",
-        "creditTerm": "రుణ వ్యవధి",
-        "openedDate": "తెరిచిన తేదీ",
-        "transactionDate": "లావాదేవీ తేదీ",
-        "transactionType": "లావాదేవీ రకం"
+        "creditTerm": "రుణ వ్యవధి"
     }
 }

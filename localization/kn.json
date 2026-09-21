@@ -6,9 +6,6 @@
         "creditAccounts": "ಸಾಲದ ಖಾತೆಗಳು",
         "creditLimit": "ಸಾಲದ ಮಿತಿ",
         "creditManagement": "ಸಾಲ ನಿರ್ವಹಣೆ",
-        "creditTerm": "ಸಾಲದ ಅವಧಿ",
-        "openedDate": "ತೆರೆದ ದಿನಾಂಕ",
-        "transactionDate": "ವಹಿವಾಟಿನ ದಿನಾಂಕ",
-        "transactionType": "ವಹಿವಾಟಿನ ಪ್ರಕಾರ"
+        "creditTerm": "ಸಾಲದ ಅವಧಿ"
     }
 }

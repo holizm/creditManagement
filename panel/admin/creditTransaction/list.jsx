@@ -6,8 +6,8 @@ import Form from './form'
 
 const headers = <>
     <th start>creditManagementCreditAccount</th>
-    <th>creditManagementTransactionType</th>
-    <th>creditManagementTransactionDate</th>
+    <th>coreTransactionType</th>
+    <th>coreTransactionDate</th>
     <th>creditManagementAmount</th>
     <th>creditManagementBalance</th>
 </>

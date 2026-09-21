@@ -6,9 +6,6 @@
         "creditAccounts": "الحسابات الائتمانية",
         "creditLimit": "الحد الائتماني",
         "creditManagement": "إدارة الائتمان",
-        "creditTerm": "مدة الائتمان",
-        "openedDate": "تاريخ فتح الحساب",
-        "transactionDate": "تاريخ المعاملة",
-        "transactionType": "نوع المعاملة"
+        "creditTerm": "مدة الائتمان"
     }
 }

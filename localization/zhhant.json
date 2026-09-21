@@ -6,9 +6,6 @@
         "creditAccounts": "信用帳戶",
         "creditLimit": "信用額度",
         "creditManagement": "信用管理",
-        "creditTerm": "信用期限",
-        "openedDate": "開戶日期",
-        "transactionDate": "交易日期",
-        "transactionType": "交易類型"
+        "creditTerm": "信用期限"
     }
 }

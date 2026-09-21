@@ -6,9 +6,6 @@
         "creditAccounts": "Mga account ng kredito",
         "creditLimit": "Limitasyon ng kredito",
         "creditManagement": "Pamamahala ng kredito",
-        "creditTerm": "Takdang panahon ng kredito",
-        "openedDate": "Petsa ng pagbubukas",
-        "transactionDate": "Petsa ng transaksyon",
-        "transactionType": "Uri ng transaksyon"
+        "creditTerm": "Takdang panahon ng kredito"
     }
 }

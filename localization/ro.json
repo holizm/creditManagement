@@ -6,9 +6,6 @@
         "creditAccounts": "Conturi de credit",
         "creditLimit": "Limită de credit",
         "creditManagement": "Gestionarea creditului",
-        "creditTerm": "Termen de creditare",
-        "openedDate": "Data deschiderii",
-        "transactionDate": "Data tranzacției",
-        "transactionType": "Tipul tranzacției"
+        "creditTerm": "Termen de creditare"
     }
 }

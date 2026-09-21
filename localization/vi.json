@@ -6,9 +6,6 @@
         "creditAccounts": "Các tài khoản tín dụng",
         "creditLimit": "Hạn mức tín dụng",
         "creditManagement": "Quản lý tín dụng",
-        "creditTerm": "Thời hạn tín dụng",
-        "openedDate": "Ngày mở",
-        "transactionDate": "Ngày giao dịch",
-        "transactionType": "Loại giao dịch"
+        "creditTerm": "Thời hạn tín dụng"
     }
 }

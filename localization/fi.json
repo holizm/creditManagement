@@ -6,9 +6,6 @@
         "creditAccounts": "Luottotilit",
         "creditLimit": "Luottoraja",
         "creditManagement": "Luotonhallinta",
-        "creditTerm": "Luottoaika",
-        "openedDate": "Avaamispäivä",
-        "transactionDate": "Tapahtumapäivä",
-        "transactionType": "Tapahtumatyyppi"
+        "creditTerm": "Luottoaika"
     }
 }

@@ -6,9 +6,6 @@
         "creditAccounts": "Hitelszámlák",
         "creditLimit": "Hitelkeret",
         "creditManagement": "Hitelkezelés",
-        "creditTerm": "Hitelfutamidő",
-        "openedDate": "Megnyitás dátuma",
-        "transactionDate": "Tranzakció dátuma",
-        "transactionType": "Tranzakció típusa"
+        "creditTerm": "Hitelfutamidő"
     }
 }

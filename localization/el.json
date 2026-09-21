@@ -6,9 +6,6 @@
         "creditAccounts": "Πιστωτικοί λογαριασμοί",
         "creditLimit": "Πιστωτικό όριο",
         "creditManagement": "Διαχείριση πιστώσεων",
-        "creditTerm": "Προθεσμία πίστωσης",
-        "openedDate": "Ημερομηνία ανοίγματος",
-        "transactionDate": "Ημερομηνία συναλλαγής",
-        "transactionType": "Τύπος συναλλαγής"
+        "creditTerm": "Προθεσμία πίστωσης"
     }
 }

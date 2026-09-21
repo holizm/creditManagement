@@ -21,12 +21,12 @@ const inputs = <>
             'adjustment',
             'writeOff',
         ]}
-        placeholder='creditManagementTransactionType'
+        placeholder='coreTransactionType'
         property='creditTransactionType'
         required
     />
     <DateTime
-        placeholder='creditManagementTransactionDate'
+        placeholder='coreTransactionDate'
         property='transactionDate'
         required
     />

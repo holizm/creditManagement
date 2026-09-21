@@ -6,9 +6,6 @@
         "creditAccounts": "Konta kredytowe",
         "creditLimit": "Limit kredytowy",
         "creditManagement": "Zarządzanie kredytami",
-        "creditTerm": "Okres kredytowania",
-        "openedDate": "Data otwarcia",
-        "transactionDate": "Data transakcji",
-        "transactionType": "Typ transakcji"
+        "creditTerm": "Okres kredytowania"
     }
 }

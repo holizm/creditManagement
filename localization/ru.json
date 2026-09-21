@@ -6,9 +6,6 @@
         "creditAccounts": "Кредитные счета",
         "creditLimit": "Кредитный лимит",
         "creditManagement": "Управление кредитами",
-        "creditTerm": "Срок кредита",
-        "openedDate": "Дата открытия",
-        "transactionDate": "Дата транзакции",
-        "transactionType": "Тип транзакции"
+        "creditTerm": "Срок кредита"
     }
 }

@@ -6,9 +6,6 @@
         "creditAccounts": "ऋण खाते",
         "creditLimit": "ऋण सीमा",
         "creditManagement": "ऋण प्रबंधन",
-        "creditTerm": "ऋण अवधि",
-        "openedDate": "खोलने की तिथि",
-        "transactionDate": "लेनदेन की तिथि",
-        "transactionType": "लेनदेन का प्रकार"
+        "creditTerm": "ऋण अवधि"
     }
 }

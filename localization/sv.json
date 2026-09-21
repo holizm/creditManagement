@@ -6,9 +6,6 @@
         "creditAccounts": "Kreditkonton",
         "creditLimit": "Kreditgräns",
         "creditManagement": "Kredithantering",
-        "creditTerm": "Kreditperiod",
-        "openedDate": "Öppningsdatum",
-        "transactionDate": "Transaktionsdatum",
-        "transactionType": "Transaktionstyp"
+        "creditTerm": "Kreditperiod"
     }
 }

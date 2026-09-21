@@ -6,9 +6,6 @@
         "creditAccounts": "Kreditni računi",
         "creditLimit": "Kreditno ograničenje",
         "creditManagement": "Upravljanje kreditima",
-        "creditTerm": "Rok kredita",
-        "openedDate": "Datum otvaranja",
-        "transactionDate": "Datum transakcije",
-        "transactionType": "Vrsta transakcije"
+        "creditTerm": "Rok kredita"
     }
 }

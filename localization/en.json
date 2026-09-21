@@ -6,9 +6,6 @@
         "creditAccounts": "Credit accounts",
         "creditLimit": "Credit limit",
         "creditManagement": "Credit management",
-        "creditTerm": "Credit term",
-        "openedDate": "Opened date",
-        "transactionDate": "Transaction date",
-        "transactionType": "Transaction type"
+        "creditTerm": "Credit term"
     }
 }

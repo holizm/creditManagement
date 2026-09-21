@@ -6,9 +6,6 @@
         "creditAccounts": "Kredi hesapları",
         "creditLimit": "Kredi limiti",
         "creditManagement": "Kredi yönetimi",
-        "creditTerm": "Kredi vadesi",
-        "openedDate": "Açılış tarihi",
-        "transactionDate": "İşlem tarihi",
-        "transactionType": "İşlem türü"
+        "creditTerm": "Kredi vadesi"
     }
 }

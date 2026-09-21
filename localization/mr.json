@@ -6,9 +6,6 @@
         "creditAccounts": "पत खाती",
         "creditLimit": "पत मर्यादा",
         "creditManagement": "पत व्यवस्थापन",
-        "creditTerm": "पत मुदत",
-        "openedDate": "उघडल्याची तारीख",
-        "transactionDate": "व्यवहाराची तारीख",
-        "transactionType": "व्यवहाराचा प्रकार"
+        "creditTerm": "पत मुदत"
     }
 }

@@ -6,9 +6,6 @@
         "creditAccounts": "חשבונות אשראי",
         "creditLimit": "מסגרת אשראי",
         "creditManagement": "ניהול אשראי",
-        "creditTerm": "תקופת אשראי",
-        "openedDate": "תאריך פתיחה",
-        "transactionDate": "תאריך עסקה",
-        "transactionType": "סוג עסקה"
+        "creditTerm": "תקופת אשראי"
     }
 }

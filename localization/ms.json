@@ -6,9 +6,6 @@
         "creditAccounts": "Akaun kredit",
         "creditLimit": "Had kredit",
         "creditManagement": "Pengurusan kredit",
-        "creditTerm": "Tempoh kredit",
-        "openedDate": "Tarikh dibuka",
-        "transactionDate": "Tarikh transaksi",
-        "transactionType": "Jenis transaksi"
+        "creditTerm": "Tempoh kredit"
     }
 }

@@ -31,7 +31,7 @@ const inputs = <>
         required
     />
     <DateTime
-        placeholder='creditManagementOpenedDate'
+        placeholder='coreOpenedDate'
         property='openedDate'
         required
     />

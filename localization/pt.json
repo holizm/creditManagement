@@ -6,9 +6,6 @@
         "creditAccounts": "Contas de crédito",
         "creditLimit": "Limite de crédito",
         "creditManagement": "Gestão de crédito",
-        "creditTerm": "Prazo de crédito",
-        "openedDate": "Data de abertura",
-        "transactionDate": "Data da transação",
-        "transactionType": "Tipo de transação"
+        "creditTerm": "Prazo de crédito"
     }
 }

@@ -6,9 +6,6 @@
         "creditAccounts": "အကြွေးစာရင်းများ",
         "creditLimit": "အကြွေးကန့်သတ်ချက်",
         "creditManagement": "အကြွေးစီမံခန့်ခွဲမှု",
-        "creditTerm": "အကြွေးကာလ",
-        "openedDate": "ဖွင့်လှစ်သည့်ရက်",
-        "transactionDate": "ငွေလွှဲရက်",
-        "transactionType": "ငွေလွှဲအမျိုးအစား"
+        "creditTerm": "အကြွေးကာလ"
     }
 }

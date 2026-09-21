@@ -6,9 +6,6 @@
         "creditAccounts": "حساب‌های اعتباری",
         "creditLimit": "سقف اعتبار",
         "creditManagement": "مدیریت اعتبار",
-        "creditTerm": "شرایط اعتباری",
-        "openedDate": "تاریخ افتتاح",
-        "transactionDate": "تاریخ تراکنش",
-        "transactionType": "نوع تراکنش"
+        "creditTerm": "شرایط اعتباری"
     }
 }
