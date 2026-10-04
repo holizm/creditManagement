@@ -1,7 +1,7 @@
 export default <>
-    <th start>coreCustomer</th>
-    <th>creditManagementCreditLimit</th>
-    <th>creditManagementBalance</th>
-    <th>creditManagementAvailableCredit</th>
-    <th>stateMachinesState</th>
+    <th start>customer</th>
+    <th>creditLimit</th>
+    <th>balance</th>
+    <th>availableCredit</th>
+    <th>state</th>
 </>

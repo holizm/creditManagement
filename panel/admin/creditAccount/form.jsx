@@ -7,31 +7,31 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='coreCustomer'
+        placeholder='customer'
         property='customer'
         required
     />
     <Text
-        placeholder='creditManagementCreditTerm'
+        placeholder='creditTerm'
         property='creditTerm'
     />
     <Numeric
-        placeholder='creditManagementCreditLimit'
+        placeholder='creditLimit'
         property='creditLimit'
         required
     />
     <Numeric
-        placeholder='creditManagementBalance'
+        placeholder='balance'
         property='balance'
         required
     />
     <Text
-        placeholder='creditManagementCurrency'
+        placeholder='currency'
         property='currency'
         required
     />
     <DateTime
-        placeholder='coreOpenedDate'
+        placeholder='openedDate'
         property='openedDate'
         required
     />

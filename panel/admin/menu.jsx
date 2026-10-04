@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/creditManagement/creditAccount/list',
-                title: 'creditManagementCreditAccounts',
+                title: 'creditAccounts',
             },
             {
                 path: '/creditManagement/creditTransaction/list',
-                title: 'creditManagementTransactions',
+                title: 'transactions',
             },
         ],
         icon: 'creditScore',
         path: '/creditManagement',
-        title: 'creditManagementCreditManagement',
+        title: 'creditManagement',
     },
 ]

@@ -1,7 +1,7 @@
 export default <>
-    <th start>creditManagementCreditAccount</th>
-    <th>coreTransactionType</th>
-    <th>coreTransactionDate</th>
-    <th>creditManagementAmount</th>
-    <th>creditManagementBalance</th>
+    <th start>creditAccount</th>
+    <th>transactionType</th>
+    <th>transactionDate</th>
+    <th>amount</th>
+    <th>balance</th>
 </>

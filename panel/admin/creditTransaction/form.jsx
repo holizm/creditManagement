@@ -9,7 +9,7 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='creditManagementCreditAccount'
+        placeholder='creditAccount'
         property='creditAccount'
         required
     />
@@ -21,22 +21,22 @@ const inputs = <>
             'adjustment',
             'writeOff',
         ]}
-        placeholder='coreTransactionType'
+        placeholder='transactionType'
         property='creditTransactionType'
         required
     />
     <DateTime
-        placeholder='coreTransactionDate'
+        placeholder='transactionDate'
         property='transactionDate'
         required
     />
     <Numeric
-        placeholder='creditManagementAmount'
+        placeholder='amount'
         property='amount'
         required
     />
     <LongText
-        placeholder='creditManagementDescription'
+        placeholder='description'
         property='description'
     />
 </>

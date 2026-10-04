@@ -23,6 +23,8 @@ creditAccount
     expiryDate optional
     state
     unique customer currency
+    uses
+        stateMachines
 creditTransaction
     creditAccount
     creditTransactionType
