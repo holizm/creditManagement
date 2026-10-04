@@ -9,11 +9,11 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='creditAccount'
-        property='creditAccount'
+        creditAccount
         required
     />
     <Select
+        creditTransactionType
         options={[
             'charge',
             'payment',
@@ -22,23 +22,17 @@ const inputs = <>
             'writeOff',
         ]}
         placeholder='transactionType'
-        property='creditTransactionType'
         required
     />
     <DateTime
-        placeholder='transactionDate'
-        property='transactionDate'
         required
+        transactionDate
     />
     <Numeric
-        placeholder='amount'
-        property='amount'
+        amount
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
